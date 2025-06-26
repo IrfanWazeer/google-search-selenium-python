@@ -46,4 +46,4 @@ This project automates a Google Search using Python, bypasses CAPTCHA, simulates
 
 ## 🤝 Author
 **Muhammad Arfan Wazeer**  
-LinkedIn: [Your LinkedIn Profile Link]  
+LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/muhammad-arfan-wazeer-543468a2/)]  
