@@ -1,2 +1,6 @@
 undetected-chromedriver==3.5.4
 selenium==4.16.0
+'''
+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
+'''
+
